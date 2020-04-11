@@ -7,6 +7,7 @@ For the past 6 months or so I've been working on re-writing a legacy system and 
 # Project Ideas 
 ## Datastructures
 - HashMap
+- LRU Cache
 - Bloom filter
 
 ## Algorithms
@@ -32,12 +33,21 @@ For the past 6 months or so I've been working on re-writing a legacy system and 
 - Idomatic unit tests in Typescript/Javascript.
 - Idomatic unit tests in for react (web ui)
 
+## Implementations Deep dive
+- [Guava Cache](https://github.com/google/guava/tree/master/guava/src/com/google/common/cache)
+- Java ConcurrentHashMap
+- Git
+- Maps in Go
 
 # Study Topics
-#### Books
+
+## General
+- Understand virtual method dispach.
+
+## Books
 - Algorithms
 
-#### Papers
+## Papers
 - TBD
 
 #### Videos
