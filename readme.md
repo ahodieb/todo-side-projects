@@ -1,8 +1,8 @@
-# covid-19-side-projects
-Ideas for side projects to implement during the covid-19 lockdown
+# TODO: Side projects
+Ideas for side projects to implement if/when i have some free time.
 
 # Motivation
-For the past 6 months or so I've been working on re-writing a legacy system and even though it is a challenging problem, it did not provide me with any challenging coding exercises, (i.e understanding the old system is hard, implementitation is fairly straight forward). During the covid-10 lockdown my mental burnout got amplified. So this is my attempt to do some coding therapy :)
+This originally started at the begining of the covid pandimic, I've been working on re-writing a legacy system and even though it is a challenging problem, it did not provide me with any challenging coding exercises, (i.e understanding the old system is hard, implementitation is fairly straight forward). During the covid-10 lockdown my mental burnout got amplified. So this is my attempt to do some coding therapy :)
 
 # Project Ideas 
 ## Datastructures
@@ -26,6 +26,7 @@ For the past 6 months or so I've been working on re-writing a legacy system and 
 ## App
 - Rubber stamp canvase
 - Flutter app
+- [Write an Interperters in go](https://healeycodes.com/creating-the-golfcart-programming-language/)
 
 ## New Tech
 - Idomatic unit tests in python
